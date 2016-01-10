@@ -22,8 +22,11 @@ iOS developer
 ##Experience
 ---
 
+####Senior iOS developer @ [HelloFresh](http://www.hellofresh.com), Berlin
+*December'15 - current time*
+
 ####iOS developer @ [Wire](http://www.wire.com), Berlin
-*April'15 - current time*
+*April'15 - December'15*
  
 As a member of synchronization framework team I worked on new product features like group calling, phone number registration and many others, using TDD, code review and pair programming practices. Among main technologies I worked with are Core Data, Swift, Protocol Buffers, Carthage, CI with Xcode Bots. Also I was taking part in technical interviews.
 
@@ -67,7 +70,9 @@ These projects involved a lot of work with networking, CoreData, AVFoundation, c
 ###[35mm cinema hall app](http://ilya.puchka.me/35mm/), [TheatreHD](http://ilya.puchka.me/theatrehd/)
 For these projects I developed not only clients, but also design and server API.
 
-Currently I'm working on open-source iOS client for [Ghost](https://ghost.org) blogging platform that I use for my blog. You can checkout some parts on my [GitHub](https://github.com/ilyapuchka/GhostAPI).
+Actively contributing to [Dip](https://github.com/AliSoftware/Dip), Swift DI container.
+
+Also I'm working on open-source iOS client for [Ghost](https://ghost.org) blogging platform that I use for my blog. You can checkout some parts on my [GitHub](https://github.com/ilyapuchka/GhostAPI).
 
 
 ##Skills
@@ -77,7 +82,7 @@ Currently I'm working on open-source iOS client for [Ghost](https://ghost.org) b
 * Xcode Bots
 * Git, CocoaPods, Carthage
 * SOLID, design patterns
-* 3'rd party libraries: Typhoon, AFNetworking, Mantle, EasyMapping, Protocol Buffers, etc.
+* 3'rd party libraries: Typhoon, AFNetworking, Alamofire, Mantle, EasyMapping, Protocol Buffers, etc.
 
 
 
