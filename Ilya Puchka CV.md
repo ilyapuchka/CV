@@ -5,7 +5,7 @@ iOS developer
 
 #####Berlin, Germany
 
-| [Email](ilyapuchka@gmail.com)
+| [Email](mailto:ilyapuchka@gmail.com)
 | [Blog](http://ilya.puchka.me)
 | [GitHub](https://github.com/ilyapuchka)
 | [Skype](skype:ilyapuchka?userinfo)
@@ -17,13 +17,17 @@ iOS developer
  *2004 - 2010 — Bauman Moscow State University, Aircraft control systems engineer*  
 *2013 - [Mongo DB for developers](http://tinyurl.com/q4fltax), [Yet Another Conference](https://events.yandex.ru/events/yac/2013/) (Moscow)*  
 *2014 - [{MBLT}Dev](http://2014.mbltdev.ru/en.html) (Moscow)*  
-*2015 - [UIKonf](http://www.uikonf.com) (Berlin), [WWDC](https://developer.apple.com/wwdc/) (San Fancisco)*
+*2015 - [UIKonf](http://www.uikonf.com) (Berlin, attendee), [WWDC](https://developer.apple.com/wwdc/) (San Fancisco, attendee)*  
+*2016 - [UIKonf](http://www.uikonf.com) (Berlin, [speaker](https://www.youtube.com/watch?v=Jg5MvmR3TtM&index=15&list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k)), [dotSwift](https://www.dotswift.io) (Paris, attendee), constantly visiting and frequetly presenting at local CocoaHeads meetups*
+
  
 ##Experience
 ---
 
 ####Senior iOS developer @ [HelloFresh](http://www.hellofresh.com), Berlin
 *December'15 - current time*
+
+Originally as a member of iOS team took care of different features and areas of the app functionality, improving quality and getting read of legacy left by several 3rd party agenceis. Rewrote API client from scratch, improving it's quality, stability, test coverage and architecture. Defined and pushed forward architectural changes across the whole app, i.e. moving away from massive view controllers to services oriented architecture, closer following SR principle, using value types, managing views using view models (without reactive aprroach though), breaking app in smaller modules (inhouse frameworks) to solve the problem of Swift build times and code isolation, took care (in pair with another developer) of Swift 3 migration, pushed integration of such tools like swiftlint and writing unit tests. After reorganizing into feauter teams continued to work on one of the most important areas of the app which is customer subscriptions management, building new features from groud up in close contact with developers for all other platforms (backend, android, web), UX designers and POs.
 
 ####iOS developer @ [Wire](http://www.wire.com), Berlin
 *April'15 - December'15*
@@ -55,6 +59,10 @@ In Coolconnections I managed all technical aspects of events held by company. Ma
 ##Projects
 ---
 
+###[HelloFresh](https://itunes.apple.com/app/id970107419?mt=8)
+
+###[Wire](https://wire.com)
+
 ###[Afisha Restaurants](http://tinyurl.com/pqsay78)
 
 As single iOS developer I worked on Afisha Restaurants iOS app. Afisha is the leading internet and offline media resource about lifestyle (restaurants, cinema, theatre, museums, travelling), music and everything else happening in Moscow and other cities of Russia. Afisha Restaurants app is a mobile guide of best Moscow restaurants powered by Afisha restaurants data base, users and professional editors reviews.
@@ -67,22 +75,22 @@ These projects involved a lot of work with networking, CoreData, AVFoundation, c
 ##Home projects
 ---
 
-###[35mm cinema hall app](http://ilya.puchka.me/35mm/), [TheatreHD](http://ilya.puchka.me/theatrehd/)
-For these projects I developed not only clients, but also design and server API.
+Actively contributing to [Dip](https://github.com/AliSoftware/Dip), Swift DI container, [Sourcery](https://github.com/krzysztofzablocki/Sourcery) and few other OSS projects.
 
-Actively contributing to [Dip](https://github.com/AliSoftware/Dip), Swift DI container.
+Write to my personal [tech blog](http://ilya.puchka.me) sharing my experience and finidings with a community.
 
-Also I'm working on open-source iOS client for [Ghost](https://ghost.org) blogging platform that I use for my blog. You can checkout some parts on my [GitHub](https://github.com/ilyapuchka/GhostAPI).
+###[35mm cinema hall app](http://ilya.puchka.me/35mm/)
+The first app that I've built, unfortunatelly not in the AppStore any more.
 
 
 ##Skills
 ---
 * Cocoa Touch (Foundation, UIKit, CoreGraphics, CoreAnimation, CoreData, Networking, AVFoundation, GCD, Objective-C Runtime)
-* Objective-C, Swift 
+* Swift, Objective-C 
 * Xcode Bots
 * Git, CocoaPods, Carthage
 * SOLID, design patterns
-* 3'rd party libraries: Typhoon, AFNetworking, Alamofire, Mantle, EasyMapping, Protocol Buffers, etc.
+* 3'rd party libraries: Typhoon, AFNetworking, Alamofire, EasyMapping, Protocol Buffers, Eureka, etc.
 
 
 
