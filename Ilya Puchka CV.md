@@ -15,8 +15,8 @@ iOS developer
 ##Education
 ---
  *2004 - 2010 — Bauman Moscow State University, Aircraft control systems engineer*  
-*2013 - [Mongo DB for developers](http://tinyurl.com/q4fltax), [Yet Another Conference](https://events.yandex.ru/events/yac/2013/) (Moscow)*  
-*2014 - [{MBLT}Dev](http://2014.mbltdev.ru/en.html) (Moscow)*  
+*2013 - [Mongo DB for developers](http://tinyurl.com/q4fltax), [Yet Another Conference](https://events.yandex.ru/events/yac/2013/) (Moscow, attendee)*  
+*2014 - [{MBLT}Dev](http://2014.mbltdev.ru/en.html) (Moscow, attendee)*  
 *2015 - [UIKonf](http://www.uikonf.com) (Berlin, attendee), [WWDC](https://developer.apple.com/wwdc/) (San Fancisco, attendee)*  
 *2016 - [UIKonf](http://www.uikonf.com) (Berlin, [speaker](https://www.youtube.com/watch?v=Jg5MvmR3TtM&index=15&list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k)), [dotSwift](https://www.dotswift.io) (Paris, attendee), constantly visiting and frequetly presenting at local CocoaHeads meetups*
 
