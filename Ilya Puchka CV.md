@@ -8,8 +8,9 @@ iOS developer
 | [Email](mailto:ilyapuchka@gmail.com)
 | [Blog](http://ilya.puchka.me)
 | [GitHub](https://github.com/ilyapuchka)
-| [Skype](skype:ilyapuchka?userinfo)
-| [Facebook](https://www.facebook.com/ilyapuchka) |
+| [Twitter](https://twitter.com/ilyapuchka)
+| [Facebook](https://www.facebook.com/ilyapuchka)
+| [Skype](skype:ilyapuchka?userinfo) |
 
 
 ##Education
@@ -75,7 +76,7 @@ These projects involved a lot of work with networking, CoreData, AVFoundation, c
 ##Home projects
 ---
 
-Actively contributing to [Dip](https://github.com/AliSoftware/Dip), Swift DI container, [Sourcery](https://github.com/krzysztofzablocki/Sourcery) and few other OSS projects.
+Actively contributing to [Dip](https://github.com/AliSoftware/Dip), Swift DI container, [Sourcery](https://github.com/krzysztofzablocki/Sourcery) and few other OSS projects, like [Eureka](https://github.com/xmartlabs/Eureka).
 
 Write to my personal [tech blog](http://ilya.puchka.me) sharing my experience and finidings with a community.
 
