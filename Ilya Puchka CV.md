@@ -25,8 +25,14 @@ iOS developer
 ##Experience
 ---
 
+####Senior iOS developer @ [Babylon](http://www.babylonhealth.com), London
+*February'18 - present*
+
+As a part of the Core team is working mostly on automation: development tools, CI pipeline, UI automation tools, focusing on their performance and stability. At the same time work various on product features.
+
+
 ####Senior iOS developer @ [HelloFresh](http://www.hellofresh.com), Berlin
-*December'15 - present*
+*December'15 - December'17*
 
 Being part of the original iOS team, I took care of different features and areas of the app, while improving the overall quality and getting rid of legacy code left by several third party agencies. I had to rewrite the API client from scratch. I took this opportunity to improve the architecture, quality of the code, stability, and test coverage. I also took care of defining and pushing forward architectural changes across the whole app. Examples of these would be: moving away from massive view controllers to services oriented architecture, following single responsibility principle, using value types, managing views using view models (without reactive aprroach though), breaking app in smaller modules (in-house frameworks) to solve the problem of Swift build times and code isolation, Swift 3 migration, pushed integration of tools such as swiftlint, and writing unit tests. 
 
@@ -79,7 +85,7 @@ These projects involved a lot of work with networking, CoreData, AVFoundation, c
 ##Home projects
 ---
 
-Actively contributing to [Dip](https://github.com/AliSoftware/Dip), Swift DI container, [Sourcery](https://github.com/krzysztofzablocki/Sourcery) and few other OSS projects like [Eureka](https://github.com/xmartlabs/Eureka).
+Actively contributing to [Sourcery](https://github.com/krzysztofzablocki/Sourcery), [Stencil](https://github.com/stencilproject/Stencil), [XCTest-Gherkin](https://github.com/net-a-porter-mobile/XCTest-Gherkin), [Dip](https://github.com/AliSoftware/Dip) and few other OSS projects like [Eureka](https://github.com/xmartlabs/Eureka).
 
 Personal [tech blog](http://ilya.puchka.me) where I share my experiences and findings with the community.
 
@@ -89,12 +95,12 @@ The first app that I've built, unfortunately not available in the AppStore anymo
 
 ##Skills
 ---
-* Cocoa Touch (Foundation, UIKit, CoreGraphics, CoreAnimation, CoreData, Networking, AVFoundation, GCD, Objective-C Runtime)
-* Swift, Objective-C 
-* Xcode Bots
-* Git, CocoaPods, Carthage
+* Cocoa Touch (Foundation, UIKit, CoreGraphics, CoreAnimation, CoreData, Networking, AVFoundation, GCD, Objective-C Runtime, etc.)
+* Swift, Objective-C, little bit of Ruby 
+* Circle CI, Travis, Xcode Bots
+* Git, CocoaPods, Carthage, fastlane
 * SOLID, design patterns
-* 3'rd party libraries: Typhoon, AFNetworking, Alamofire, EasyMapping, Protocol Buffers, Eureka, etc.
+* 3'rd party libraries: ReactiveCocoa, Typhoon, AFNetworking, Alamofire, Protocol Buffers, Eureka, etc.
 
 
 
