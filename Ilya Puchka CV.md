@@ -3,23 +3,24 @@ Ilya Puchka
 iOS developer
 -------------
 
-#####Berlin, Germany
+#####London, UK
 
 | [Email](mailto:ilyapuchka@gmail.com)
 | [Blog](http://ilya.puchka.me)
 | [GitHub](https://github.com/ilyapuchka)
 | [Twitter](https://twitter.com/ilyapuchka)
-| [Facebook](https://www.facebook.com/ilyapuchka)
 | [Skype](skype:ilyapuchka?userinfo) |
 
 
-##Education
+##Education & Conferences
 ---
  *2004 - 2010 — Bauman Moscow State University, Aircraft control systems engineer*  
-*2013 - [Mongo DB for developers](http://tinyurl.com/q4fltax), [Yet Another Conference](https://events.yandex.ru/events/yac/2013/) (Moscow, attendee)*  
+*2013 - [Yet Another Conference](https://events.yandex.ru/events/yac/2013/) (Moscow, attendee)*  
 *2014 - [{MBLT}Dev](http://2014.mbltdev.ru/en.html) (Moscow, attendee)*  
 *2015 - [UIKonf](http://www.uikonf.com) (Berlin, attendee), [WWDC](https://developer.apple.com/wwdc/) (San Fancisco, attendee)*  
-*2016 - [UIKonf](http://www.uikonf.com) (Berlin, [speaker](https://www.youtube.com/watch?v=Jg5MvmR3TtM&index=15&list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k)), [dotSwift](https://www.dotswift.io) (Paris, attendee), constantly visiting and frequently presenting at local CocoaHeads meetups*
+*2016 - [UIKonf](http://www.uikonf.com) (Berlin, [speaker](https://www.youtube.com/watch?v=Jg5MvmR3TtM&index=15&list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k))*  
+*2017, 2019 [dotSwift](https://www.dotswift.io) (Paris, attendee)*  
+*2018, 2019 - [iOS Astronauts](https://www.youtube.com/channel/UCafIVU7Twt-smc2Lu_ozzAQ) (London, speaker)*
 
  
 ##Experience
@@ -28,7 +29,7 @@ iOS developer
 ####Senior iOS developer @ [Babylon](http://www.babylonhealth.com), London
 *February'18 - present*
 
-As a part of the Core team is working mostly on automation: development tools, CI pipeline, UI automation tools, focusing on their performance and stability. At the same time work various on product features.
+As a part of the Core team was working mostly on release process automation and development tools, CI pipeline, UI automation tools, focusing on their performance and stability, at the same time working on various product features. Later joined a product team working mostly on user facing product features in a close collaboration with product owners and UX designers.
 
 
 ####Senior iOS developer @ [HelloFresh](http://www.hellofresh.com), Berlin
@@ -79,29 +80,23 @@ As a single iOS developer, I worked on Afisha Restaurants iOS app. Afisha is the
 With backend developers, I took part in defining service API. Also I've developed flexible app architecture that can be extended and customized to build new apps on top of it.
 
 ###[NTV plus TV](http://tinyurl.com/p6w7rfp), [RFPL, UEFA Champions League, UEFA Europa League](http://ilya.puchka.me/rfpl/)
-These projects involved a lot of work with networking, CoreData, AVFoundation, custom UI elements, and in-app purchases.
+These projects involved a lot of work with networking, CoreData, AVFoundation (HTTP Live Streaming), custom UI elements, and in-app purchases.
 
 
 ##Home projects
 ---
 
-Actively contributing to [Sourcery](https://github.com/krzysztofzablocki/Sourcery), [Stencil](https://github.com/stencilproject/Stencil), [XCTest-Gherkin](https://github.com/net-a-porter-mobile/XCTest-Gherkin), [Dip](https://github.com/AliSoftware/Dip) and few other OSS projects like [Eureka](https://github.com/xmartlabs/Eureka).
+One of the core contributors to various OSS projects: [Sourcery](https://github.com/krzysztofzablocki/Sourcery), [Stencil](https://github.com/stencilproject/Stencil), [XCTest-Gherkin](https://github.com/net-a-porter-mobile/XCTest-Gherkin), [Dip](https://github.com/AliSoftware/Dip) and few other.
 
 Personal [tech blog](http://ilya.puchka.me) where I share my experiences and findings with the community.
-
-###[35mm cinema hall app](http://ilya.puchka.me/35mm/)
-The first app that I've built, unfortunately not available in the AppStore anymore.
-
 
 ##Skills
 ---
 * Cocoa Touch (Foundation, UIKit, CoreGraphics, CoreAnimation, CoreData, Networking, AVFoundation, GCD, Objective-C Runtime, etc.)
-* Swift, Objective-C, little bit of Ruby 
-* Circle CI, Travis, Xcode Bots
-* Git, CocoaPods, Carthage, fastlane
-* SOLID, design patterns
-* 3'rd party libraries: ReactiveCocoa, Typhoon, AFNetworking, Alamofire, Protocol Buffers, Eureka, etc.
-
+* Swift, Objective-C, little bit of Ruby, open for learning new technologies 
+* Circle CI, Jenkins, Fastlane
+* Git, CocoaPods, Carthage
+* FRP, SOLID principles, design patterns
 
 
 ##Languages
